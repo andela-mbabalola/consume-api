@@ -1,0 +1,26 @@
+{
+  "name": "consume-api",
+  "version": "1.0.0",
+  "description": "consume github api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "git",
+    "api"
+  ],
+  "author": "maryam",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "bower": "^1.8.0",
+    "express": "^4.14.1",
+    "request": "^2.79.0",
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "jshint-stylish": "^0.4.0",
+    "nodemon": "^1.2.1"
+  }
+}

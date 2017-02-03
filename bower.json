@@ -1,0 +1,29 @@
+{
+  "name": "consume-api",
+  "description": "consume github api",
+  "main": "server.js",
+  "authors": [
+    "maryam"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "git",
+    "api"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.20",
+    "angular-ui-router": "~0.2.10",
+    "async": "~0.9.0",
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.1"
+  }
+}
